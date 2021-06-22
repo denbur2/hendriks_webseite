@@ -216,7 +216,7 @@ function keyDown(event){
                 
                 if(event.keyCode==69 && X<-2300 && X>-3000){
                     ctx.fillText("mein Beitrag", X+1200, Y-800);
-                    let ref = window.open('gaestebuch.php', '_blank', options); 
+                    let ref = window.open('gaestebuch/index.php', '_blank', options); 
                 }
                 if(event.keyCode==69 && X<-3700 && X>-4200 && Y > 0){
                     Y=Y-2000;
