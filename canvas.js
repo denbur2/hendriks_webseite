@@ -233,4 +233,6 @@ function keyDown(event){
             
             window.addEventListener('keydown', keyDown);
             animate();
-            
+
+
+//das ist das sogenannte Ende des scripts ab hier kannst du keine code mehr erwarten, jeder der hier etwas hinunter schreibt sollte sich schämen!
